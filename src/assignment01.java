@@ -1,8 +1,6 @@
 // I'M GOING TO BLOW UP
 // first java thingy bajingy :3
 
-import java.util.Arrays;
-
 public class assignment01 {
     public static void main(String[] args) {
 
