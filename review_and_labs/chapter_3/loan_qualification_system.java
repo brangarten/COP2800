@@ -1,8 +1,6 @@
-package review_and_labs;
+package review_and_labs.chapter_3;
 
 import java.util.Scanner;
-
-import review_and_labs.chapter_3.LoanAccount;
 
 public class loan_qualification_system {
     public static void main(String[] args) {
